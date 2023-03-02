@@ -1,0 +1,7 @@
+for_tests.ipynb
+venv
+.ipynb_checkpoints
+YandexImagesParser
+__pycache__
+output
+.idea

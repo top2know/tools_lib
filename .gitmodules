@@ -1,0 +1,3 @@
+[submodule "YandexImagesParser"]
+	path = YandexImagesParser
+	url = https://github.com/Ulbwaa/YandexImagesParser
