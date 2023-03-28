@@ -1,0 +1,8 @@
+IAM_TOKEN="iam_token"
+YC_FOLDER="folder_id"
+
+EMAIL="mail@mail.ru"
+PASSWORD="PASSWORD"
+
+YDB_DATABASE="db"
+YDB_ENDPOINT="db_endpoint"

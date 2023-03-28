@@ -5,3 +5,4 @@ YandexImagesParser
 __pycache__
 output
 .idea
+.env
